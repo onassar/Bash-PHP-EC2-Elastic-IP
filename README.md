@@ -4,8 +4,13 @@ Provides a bash-accessible script which sets the elastic IP address of an
 instance, as determined by a passed in Private IP Address.
 
 ### Presumptions
-You have made changes to the PHP file, editing your key and passphrase before
-having used the script.
+
+ - `update.php` contains your AWS key and passphrase appropriately
+ - The [AWS PHP SDK](http://aws.amazon.com/sdkforphp/) is available at the path
+`../sdk-1.5.2/sdk-1.5.2/sdk.class.php`
+
+If the path to the AWS SDK is different, it must then be specified in
+`update.php`.
 
 ### Sample CLI Call
 
