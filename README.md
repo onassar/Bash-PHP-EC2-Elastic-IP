@@ -7,7 +7,7 @@ instance, as determined by a passed in Private IP Address.
 
  - `update.php` contains your AWS key and secret appropriately
  - The [AWS PHP SDK](http://aws.amazon.com/sdkforphp/) is available at the path
-`/home/ubuntu/scripts/aws-sdk-for-php/sdk.class.php`, relative to `update.php`
+`/home/ubuntu/scripts/aws-sdk-for-php/sdk.class.php`
 
 If the path to the AWS SDK is different, it must then be specified in
 `update.php`.
