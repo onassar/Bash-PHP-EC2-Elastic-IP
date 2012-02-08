@@ -18,7 +18,7 @@
     $secret = 'aRHxnzvbbxFuGo4IGTopnUZaPcbPH46tsiUQgcF6';
 
     // SDK path
-    $path = '../sdk-1.5.2/sdk-1.5.2/sdk.class.php';
+    $path = '/home/ubuntu/scripts/aws-sdk-for-php/sdk.class.php';
     require_once $path;
 
     /**
