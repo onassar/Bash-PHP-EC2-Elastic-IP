@@ -65,3 +65,7 @@
             exit('0');
         }
     }
+
+    // default failure
+    exit('1');
+
