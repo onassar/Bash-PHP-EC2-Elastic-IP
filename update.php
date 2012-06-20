@@ -14,8 +14,8 @@
      */
 
     // credentials
-    $key = '0FHND85KDRD4VMYMTRR2';
-    $secret = 'aRHxnzvbbxFuGo4IGTopnUZaPcbPH46tsiUQgcF6';
+    $key = 'XXXXXXXXXXXXXXXXXXXX';
+    $secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 
     // SDK path
     $path = '/home/ubuntu/scripts/aws-sdk-for-php/sdk.class.php';
